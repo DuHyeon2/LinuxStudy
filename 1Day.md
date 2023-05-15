@@ -23,3 +23,25 @@
 <img width="438" alt="image" src="https://github.com/DuHyeon2/LinuxStudy/assets/83499405/8190cb72-660b-411a-963e-1b2eb44bd0b2">
 </br>
 파일명 뒤에 확장자가 없으면 디렉토리고, 있으면 그 확장자를 따른다
+
+<h3>cd : 디렉토리를 들어가고 나갈 수 있는 명령어</h3>
+/디렉토리 명 : 해당하는 디렉토리 안으로 이동</br>
+.. : 부모 디렉토리로 이동</br>
+/ : 루트 디렉토리로 이동</br>
+
+<img width="426" alt="image" src="https://github.com/DuHyeon2/LinuxStudy/assets/83499405/c57452ce-58d9-452d-b98e-5495d11ac9d9">
+</br>
+
+<h3>rm : 디렉토리를 삭제하는 명령어</h3>
+-r 디렉토리 명 : 디렉토리 삭제 </br>
+그냥 : 디렉토리 제외하고 다른거 삭제 </br>
+<img width="456" alt="image" src="https://github.com/DuHyeon2/LinuxStudy/assets/83499405/e78985fe-c98c-43f4-abfb-8287e67d9ebc">
+
+<h3>--help : 명령어에 대한 설명을 보여주는 명령어</h3>
+<img width="570" alt="image" src="https://github.com/DuHyeon2/LinuxStudy/assets/83499405/11d6f0e7-a894-4125-a7be-63f5f7208849">
+
+
+
+
+
+
