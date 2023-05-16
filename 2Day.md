@@ -5,3 +5,5 @@
 
 <h2>Linux 명령어</h2>
 <h3>sudo : 권한을 주는 명령어(super user do의 약자)</h3>
+최고 관리자(root)로 명령어를 실행할때만 사용
+sudo는 잘 사용해야 한다!
