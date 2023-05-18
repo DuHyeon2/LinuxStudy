@@ -44,3 +44,21 @@ brew uninstall htop : htop 삭제
 </br>
 
 ![image](https://github.com/DuHyeon2/LinuxStudy/assets/83499405/11a91074-5611-4154-ac9c-c92dbf0edf66)
+
+
+
+<h2>wget</h2>
+gui방식 말고 명령어를 통해 인터넷에서 파일을 다운받는 명령어
+
+<h3>wget</h3>
+wget 다운로드링크 : download이름으로 파일이 다운로드 된다
+
+</br>
+
+wget -O 파일이름 다운로드링크 : 파일이름으로 파일이 다운로드 된다
+
+</br>
+
+![Uploading 스크린샷 2023-05-19 오전 1.04.02.png…]()
+
+
