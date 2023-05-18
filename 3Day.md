@@ -59,6 +59,5 @@ wget -O 파일이름 다운로드링크 : 파일이름으로 파일이 다운로
 
 </br>
 
-![Uploading 스크린샷 2023-05-19 오전 1.04.02.png…]()
-
+<img width="883" alt="스크린샷 2023-05-19 오전 1 04 02" src="https://github.com/DuHyeon2/LinuxStudy/assets/83499405/dee5b608-5c6f-4dc6-ba60-bd89bbed1b30">
 
