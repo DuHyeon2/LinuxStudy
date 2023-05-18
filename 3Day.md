@@ -2,6 +2,8 @@
 
 <h2>들어가기 전</h2>
 nano는 기본적인것만 공부하고 넘김
+
+</br>
 homebrew 다운로드(package manager)
 
 <h2>package manager란?</h2>
