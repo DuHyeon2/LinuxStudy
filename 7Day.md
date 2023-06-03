@@ -44,11 +44,28 @@ htop 은 다운로드 받아야 해서 그냥 sudo top 만 실행
 
 실행 대기 상태
 
+</br>
+
 <img width="471" alt="스크린샷 2023-06-04 오전 12 36 36" src="https://github.com/DuHyeon2/LinuxStudy/assets/83499405/0aa0955e-3815-41c8-88b4-2e9e402bba04">
+
+</br>
+
+ctrl + z 가 백그라운드 상태로 종료 시키는건데 맥환경은 안되서 & 를 뒤에 입력함
 
 <h3>foreground</h3>
 
+실행상태
 
+<h3>jobs / kill </h3>
+
+jobs : background-foreground 상태인 리스트 출력
+
+</br>
+
+ -> killㄹ background 상태 애들을 죽일 수 있음 
+
+</br>
+ 
 <img width="410" alt="스크린샷 2023-06-04 오전 12 38 24" src="https://github.com/DuHyeon2/LinuxStudy/assets/83499405/4695ce1b-0abf-42c9-9dce-e89a6df85e97">
 
 
