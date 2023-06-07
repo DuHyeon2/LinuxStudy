@@ -30,6 +30,8 @@ ex) sudo apt-get update
 
 </br>
 
-su - root :root계정(super user)로 ㅈ
-ㅓ
+su - root :root계정(super user)로 접속해줌
 
+</br>
+
+id : 
