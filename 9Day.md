@@ -34,4 +34,24 @@ su - root :root계정(super user)로 접속해줌
 
 </br>
 
-id : 
+id : 현재 접속중인 id를 확인하는 명령어
+
+</br>
+
+who : 누가 접속했는지 확인하는 명령어
+
+</br>
+
+처음엔 su - root 를 사용하니 su : sorry 라는 에러 문구가 출력됐음
+
+</br> 
+
+그래서 sudo -s 를 통해 bash-3.2# 에 접속해
+
+</br> 
+
+passwd root 를 입력하여 
+
+</br> 
+
+root계정의 password를 정의해주니 되었음
