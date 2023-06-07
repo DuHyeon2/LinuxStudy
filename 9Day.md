@@ -12,9 +12,17 @@
 
 <h3>최고 권력을 가진 사용자</h3>
 
-<h3>웬만하면 일반 User로...</h3>
+웬만하면 일반 User로...
 
-<h3>sudo로 일반 user 일 때 super user의 권한을 조금 사용할 수 있음</h3>
+</br>
+
+sudo로 일반 user 일 때 super user의 권한을 조금 사용할 수 있음
+
+</br>
+
+ex) sudo apt-get update
+
+</br>
 
 <h2>Super user 로그인</h2>
 
@@ -22,4 +30,6 @@
 
 </br>
 
-su - root :ㄱ
+su - root :root계정(super user)로 ㅈ
+ㅓ
+
