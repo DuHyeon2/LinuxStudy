@@ -57,8 +57,8 @@ e : execute
 </br>
 - : 여기에 위치한 권한의 권한 없음
 </br>
-처음은 owner의 권한
+처음은 owner의 권한 (gimduhyeon)
 </br>
-두번짼 group의 권한
+두번짼 group의 권한 (staff)
 </br>
 세번짼 모두의 권한
