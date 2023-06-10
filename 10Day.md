@@ -34,10 +34,12 @@ sudo userpw engus8827로 비밀번호도 설정 해 줬다
 
 </br>
 
-허나 계속 ㄹ이 안되길래 Users폴더에 id와 같은 폴더인 engus8827을 만들어주니 잘 되었다
-</br>
-</br>
-</br>ㅡ
-</br>
-</br>ㄴ
-</br>
+허나 계속 로그인이 안되길래 Users폴더에 id와 같은 폴더인 engus8827을 만들어주니 잘 되었다
+
+<h2>권한 읽는법</h2>
+
+<img width="411" alt="스크린샷 2023-06-10 오후 9 47 10" src="https://github.com/DuHyeon2/LinuxStudy/assets/83499405/91295864-9bdd-43b3-bb60-9f650fcd8244">
+
+<h3>가장 첫번째 -</h3>
+
+파일의 타입
