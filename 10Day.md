@@ -43,3 +43,22 @@ sudo userpw engus8827로 비밀번호도 설정 해 줬다
 <h3>가장 첫번째 -</h3>
 
 파일의 타입
+
+<h3>rwe</h3>
+
+아래 세글자로 끊어 읽으면 된다
+
+</br>
+r : read
+</br>
+w : write
+</br>
+e : execute
+</br>
+- : 여기에 위치한 권한의 권한 없음
+</br>
+처음은 owner의 권한
+</br>
+두번짼 group의 권한
+</br>
+세번짼 모두의 권한
