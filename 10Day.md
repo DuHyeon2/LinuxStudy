@@ -47,7 +47,6 @@ sudo userpw engus8827로 비밀번호도 설정 해 줬다
 <h3>rwe</h3>
 
 아래 세글자로 끊어 읽으면 된다
-
 </br>
 r : read
 </br>
@@ -62,3 +61,5 @@ e : execute
 두번짼 group의 권한 (staff)
 </br>
 세번짼 모두의 권한
+</br>
+마지막은 날짜와 파일의 이름으로 구성되어 있다
