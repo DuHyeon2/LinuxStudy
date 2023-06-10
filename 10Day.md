@@ -22,8 +22,22 @@ mac을 사용중인 나는 더 까다롭게 user 생성했음
 
 </br>
 
+sudo dscl 로 각각 id와 shell, unique id,directory, group 등을 만들건 지정해 줬으며
+
+</br>
+
+sudo userpw engus8827로 비밀번호도 설정 해 줬다
+
+</br>
+
 <img width="490" alt="스크린샷 2023-06-10 오후 10 49 46" src="https://github.com/DuHyeon2/LinuxStudy/assets/83499405/1de7671c-b4b8-4965-a73d-35503ac3ebb2">
 
 </br>
 
-sudo dscl 로
+허나 계속 ㄹ이 안되길래 Users폴더에 id와 같은 폴더인 engus8827을 만들어주니 잘 되었다
+</br>
+</br>
+</br>ㅡ
+</br>
+</br>ㄴ
+</br>
