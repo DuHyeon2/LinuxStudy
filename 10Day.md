@@ -52,11 +52,11 @@ r : read
 </br>
 w : write
 </br>
-e : execute
+x : execute
 </br>
 - : 여기에 위치한 권한의 권한 없음
 </br>
-처음은 owner의 권한 (gimduhyeon)
+처음은 owner의 권한 (gimduhyeon) 
 </br>
 두번짼 group의 권한 (staff)
 </br>
