@@ -3,9 +3,18 @@
 <h2>apache2 설치</h2>
 
 sudo apt-get update
+
 </br>
 
 sudo apt-get install apahce2 
+
+</br>
+
+sudo service apache2 start (실행)
+
+</br>
+
+sudo service apahce2 stop (종료)
 
 </br>
 
