@@ -1,7 +1,7 @@
-# LinuxStudy
+# Ubuntu / LinuxStudy
 
-Ubuntu 리눅스 공부 </br>
-환경 : Mac, terminal 이용
+우분투 리눅스 공부 </br>
+환경 : Mac, terminal, UTM
 
 1일차 : 
 </br>
