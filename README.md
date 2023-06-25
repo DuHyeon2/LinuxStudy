@@ -19,7 +19,7 @@ Ubuntu 리눅스 공부 </br>
 </br>
 
 
-강의 정보 : 
+강의 정보 : </br>
 https://www.inflearn.com/course/생활코딩-리눅스-강좌/dashboard </br>
 https://www.inflearn.com/course/이것이-우분투-리눅스다/dashboard
 
