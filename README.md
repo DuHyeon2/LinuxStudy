@@ -1,6 +1,6 @@
 # LinuxStudy
 
-생활코딩 리눅스 공부 </br>
+Ubuntu 리눅스 공부 </br>
 환경 : Mac, terminal 이용
 
 1일차 : 
@@ -19,4 +19,9 @@
 </br>
 
 
-강의 정보 : https://www.inflearn.com/course/생활코딩-리눅스-강좌/dashboard
+강의 정보 : 
+https://www.inflearn.com/course/생활코딩-리눅스-강좌/dashboard
+https://www.inflearn.com/course/이것이-우분투-리눅스다/dashboard
+
+
+
